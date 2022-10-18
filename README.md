@@ -1,12 +1,8 @@
-# Prework Study Guide Webpage
+# <Bootcamp Prework Study Guide Webpage>
 
 ## Description
 
-This Prework Study Guide Webpage was built to help keep track of the various concepts taught during this code bootcamp. 
-
-The project was built in order to practice writing HTML, CSS, and JavaScript code whilst also keeping track of key bits of information about each coding language. 
-
-I should be able to refer back to this project over the duration of the course, and add additional notes.
+This study guide will help me keep track and refer back to my notes during this coding bootcamp.
 
 
 ## Installation
@@ -15,7 +11,7 @@ N/A
 
 ## Usage
 
-You can access the Prework Study Guide to refresh your memory on topics relating to HTML, CSS, JavaScript, and Git. 
+Access the prework study guide online to read notes about HTML, CSS, Git, and JavaScript.
 
 ## Credits
 
